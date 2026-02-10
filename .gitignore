@@ -1,0 +1,25 @@
+# Python project ignores
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+.env.local
+.env.*.local
+
+# IDE configurations
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Project-specific files
+CVs/
+data/
