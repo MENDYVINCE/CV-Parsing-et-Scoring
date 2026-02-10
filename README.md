@@ -78,12 +78,3 @@ An automated CVthèque including:
 ## 🧭 Process Modeling Tools
 - 🗺️ **EdrawMax** – Process mapping
 - 🔁 **Bizagi Modeler** – BPMN (As-Is & To-Be)
-
-## 👥 Team
-- Mohammed Adam KHALI  
-- Yassine EL AMRI  
-- Vincent MENDY  
-- Rayan YAJJOU  
-
-## 🏁 Conclusion
-This project shows how **automation and BPR principles** can transform recruitment into a **faster, more reliable, and data-driven process**, while keeping **human judgment** at the core of decision-making.
