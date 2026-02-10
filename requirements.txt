@@ -1,0 +1,19 @@
+# Requirements for CV Parsing, NLP, OCR, and Machine Learning
+
+# CV Parsing
+cv-parser
+
+# NLP
+spacy
+nltk
+transformers
+
+# OCR
+pytesseract
+opencv-python
+
+# Machine Learning
+scikit-learn
+tensorflow
+pandas
+numpy
